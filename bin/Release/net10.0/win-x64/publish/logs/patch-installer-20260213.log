@@ -1,0 +1,42 @@
+2026-02-13 16:42:03.479 -06:00 [INF] Serilog configured. Logs: C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\bin\Release\net10.0\win-x64\publish\logs\patch-installer-.log
+2026-02-13 16:42:03.518 -06:00 [INF] PatchInstaller starting. Args: 
+2026-02-13 16:42:03.525 -06:00 [INF] Process: PatchInstaller (28576), User: sbutski
+2026-02-13 16:42:03.529 -06:00 [INF] OS: Microsoft Windows NT 10.0.26200.0, 64-bit OS: true, 64-bit process: true
+2026-02-13 16:42:03.533 -06:00 [ERR] This application must be run as Administrator. Exiting.
+2026-02-13 16:42:32.846 -06:00 [INF] Serilog configured. Logs: C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\bin\Release\net10.0\win-x64\publish\logs\patch-installer-.log
+2026-02-13 16:42:32.883 -06:00 [INF] PatchInstaller starting. Args: 
+2026-02-13 16:42:32.888 -06:00 [INF] Process: PatchInstaller (35732), User: sbutski
+2026-02-13 16:42:32.893 -06:00 [INF] OS: Microsoft Windows NT 10.0.26200.0, 64-bit OS: true, 64-bit process: true
+2026-02-13 16:42:32.899 -06:00 [INF] Pre-check pending reboot: true. Signals: SessionMgr:PendingFileRenameOperations
+2026-02-13 16:42:32.900 -06:00 [INF] Windows Update search criteria: IsInstalled=0 and IsHidden=0 and Type='Software'
+2026-02-13 16:42:32.967 -06:00 [INF] Searching for updates...
+2026-02-13 16:42:41.183 -06:00 [INF] Search completed. ResultCode=2, UpdatesFound=0
+2026-02-13 16:42:41.185 -06:00 [INF] No applicable updates found. System appears up to date.
+2026-02-13 16:52:57.760 -06:00 [INF] Serilog configured. Logs: C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\bin\Release\net10.0\win-x64\publish\logs\patch-installer-.log
+2026-02-13 16:52:57.795 -06:00 [INF] PatchInstaller starting. Args: 
+2026-02-13 16:52:57.800 -06:00 [INF] Process: PatchInstaller (25472), User: CTG-IT-02$
+2026-02-13 16:52:57.802 -06:00 [INF] OS: Microsoft Windows NT 10.0.26200.0, 64-bit OS: true, 64-bit process: true
+2026-02-13 16:52:57.807 -06:00 [INF] Pre-check pending reboot: true. Signals: SessionMgr:PendingFileRenameOperations
+2026-02-13 16:52:57.808 -06:00 [INF] Windows Update search criteria: IsInstalled=0 and IsHidden=0 and Type='Software'
+2026-02-13 16:52:57.872 -06:00 [INF] Searching for updates...
+2026-02-13 16:53:05.469 -06:00 [INF] Search completed. ResultCode=2, UpdatesFound=0
+2026-02-13 16:53:05.471 -06:00 [INF] No applicable updates found. System appears up to date.
+2026-02-13 16:54:10.335 -06:00 [INF] Serilog configured. Logs: C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\bin\Release\net10.0\win-x64\publish\logs\patch-installer-.log
+2026-02-13 16:54:10.368 -06:00 [INF] PatchInstaller starting. Args: 
+2026-02-13 16:54:10.373 -06:00 [INF] Process: PatchInstaller (3124), User: CTG-IT-02$
+2026-02-13 16:54:10.375 -06:00 [INF] OS: Microsoft Windows NT 10.0.26200.0, 64-bit OS: true, 64-bit process: true
+2026-02-13 16:54:10.383 -06:00 [INF] Pre-check pending reboot: true. Signals: SessionMgr:PendingFileRenameOperations
+2026-02-13 16:54:10.384 -06:00 [INF] Windows Update search criteria: IsInstalled=0 and IsHidden=0 and Type='Software'
+2026-02-13 16:54:10.451 -06:00 [INF] Searching for updates...
+2026-02-13 16:54:28.019 -06:00 [INF] Search completed. ResultCode=2, UpdatesFound=0
+2026-02-13 16:54:28.020 -06:00 [INF] No applicable updates found. System appears up to date.
+2026-02-13 16:56:33.841 -06:00 [INF] --------------------------
+2026-02-13 16:56:33.879 -06:00 [INF] Serilog configured. Logs: C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\bin\Release\net10.0\win-x64\publish\logs\patch-installer-.log
+2026-02-13 16:56:33.885 -06:00 [INF] PatchInstaller starting. Args: 
+2026-02-13 16:56:33.891 -06:00 [INF] Process: PatchInstaller (35364), User: CTG-IT-02$
+2026-02-13 16:56:33.896 -06:00 [INF] OS: Microsoft Windows NT 10.0.26200.0, 64-bit OS: true, 64-bit process: true
+2026-02-13 16:56:33.909 -06:00 [INF] Pre-check pending reboot: true. Signals: SessionMgr:PendingFileRenameOperations
+2026-02-13 16:56:33.911 -06:00 [INF] Windows Update search criteria: IsInstalled=0 and IsHidden=0 and Type='Software'
+2026-02-13 16:56:33.991 -06:00 [INF] Searching for updates...
+2026-02-13 16:56:41.141 -06:00 [INF] Search completed. ResultCode=2, UpdatesFound=0
+2026-02-13 16:56:41.143 -06:00 [INF] No applicable updates found. System appears up to date.
