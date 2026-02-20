@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {},
     ".NETCoreApp,Version=v10.0/win-x64": {
-      "PatchInstaller/0.26.138.406": {
+      "PatchInstaller/0.26.138.493": {
         "dependencies": {
           "Serilog": "4.3.1",
           "Serilog.Enrichers.Environment": "3.0.1",
@@ -779,7 +779,7 @@
     }
   },
   "libraries": {
-    "PatchInstaller/0.26.138.406": {
+    "PatchInstaller/0.26.138.493": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

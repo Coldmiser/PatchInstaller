@@ -207,3 +207,4 @@ C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\obj\Release\ne
 C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\obj\Release\net10.0\win-x64\PatchInstaller.pdb
 C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\obj\Release\net10.0\win-x64\PatchInstaller.genruntimeconfig.cache
 C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\obj\Release\net10.0\win-x64\ref\PatchInstaller.dll
+C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\obj\Release\net10.0\win-x64\PatchInstaller.sourcelink.json
