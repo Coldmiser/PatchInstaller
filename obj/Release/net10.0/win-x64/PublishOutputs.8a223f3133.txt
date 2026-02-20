@@ -1,0 +1,2 @@
+C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\bin\Release\net10.0\win-x64\publish\PatchInstaller.pdb
+C:\Users\sbutski\Documents\VSCode Solutions Folder\PatchInstaller\bin\Release\net10.0\win-x64\publish\PatchInstaller.exe
